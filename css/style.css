@@ -1,0 +1,41 @@
+.logo_bg {
+    background-color: rgb(252, 214, 219);
+    padding: 1rem ;
+}
+
+.head_bg {
+    background-color: red;
+    color: white;
+}
+
+.hd1 {
+    text-align: center;
+    background-color: red;
+    color: aliceblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.75rem; width: 50% ;
+    margin: 4ch 0 2ch ;
+    border-radius: 10px; 
+    position: relative ; 
+}
+.hd2 {
+    text-align: center;
+    background-color: rgb(82, 92, 235);
+    color: aliceblue;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.5rem; width: 30% ;
+    margin: 2ch 0  0 ;
+    border-radius: 10px; 
+    position: relative ; 
+}
+
+.relative {
+    position: relative;
+    width: 40%;
+    left: 30%;
+    height: 200px;
+    border: 3px solid brown;
+  } 
+
