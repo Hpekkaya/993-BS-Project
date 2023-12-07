@@ -1,7 +1,38 @@
 .logo_bg {
     background-color: rgb(252, 214, 219);
-    padding: 1rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-top: 10px; */
 }
+.select_bg {
+    background-color: rgb(252, 214, 219);
+    padding: 0.55rem ;
+}
+
+.border_left {
+    border: solid rgba(128, 128, 128, 0.4) 1px;
+}
+
+.f_size {
+    font-size: 14px;
+    margin: 12px;
+    padding: 6px 0   ;
+}
+.f_size_r {
+    font-size: 14px;
+}
+
+.f_size_s {
+    font-size: 8px;
+    font-weight: bold;
+     
+}
+
+
+.icon-red {
+    color: red;
+  }
 
 .head_bg {
     background-color: red;
